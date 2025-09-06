@@ -1,0 +1,17 @@
+# Core Python libraries
+numpy
+pandas
+
+# Data visualization
+matplotlib
+seaborn
+wordcloud
+
+# Natural Language Processing
+textblob
+nltk
+
+# Optional: notebook tools
+jupyter
+notebook
+
