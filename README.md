@@ -20,6 +20,7 @@ In this project, we:
 📦 campus-feedback-analysis
 ┣ 📂 data/ # sample or anonymized dataset (CSV)
 ┣ 📂 notebooks/ # Jupyter/Colab notebooks
+┣ 📂 mini-report/ # PDF mini-report 
 ┣ 📄 requirements.txt # dependencies
 ┣ 📄 README.md # project overview (this file)
 ┣ 📄 LICENSE # open-source license (MIT/Apache)
