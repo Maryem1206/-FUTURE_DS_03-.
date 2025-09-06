@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Jupyter/Colab notebooks
+.ipynb_checkpoints
+
+# Data files (large or sensitive)
+*.csv
+*.xlsx
+*.json
+
+# System files
+.DS_Store
+Thumbs.db
